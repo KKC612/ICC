@@ -31,10 +31,10 @@
                 <div id="content" role="main">
 
                     <div class="entry-content">
-                        <h1 class="entry-title" style="font-family: 'Raleway';">Seeking More Intimacy<br />
+                        <h1 class="entry-title seeking1" >Seeking More Intimacy<br />
                             <span class="cursive">For Couples Needing More Connection or Embroiled in Conflict</span></h1>
 
-                        <p style="text-align:center;margin-top: 10px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/wSizUmi2shU" frameborder="0" allowfullscreen></iframe></p>
+                        <p class="seeking2"><iframe width="560" height="315" src="https://www.youtube.com/embed/wSizUmi2shU" frameborder="0" allowfullscreen></iframe></p>
 
                         <h2>The format of ICC allows you to <span class="cursive">go deep and discover</span> what’s keeping the two of you from the <span class="cursive">connection</span> you deserve.</h2>
                         <h2>In weekly therapy we can tell you how to connect. In ICC we can show you how to connect and find the intimacy you’ve lost <span class="cursive">in a completely different way.</span></h2>
@@ -43,7 +43,7 @@
                         <div class="highlight-box">
                             <div class="testimonial">
                                 <p>Contact us now and let us help. Your life doesn’t need to be ruled by conflict and disconnection. <span class="cursive">Let us help you connect and communicate.</span></p>
-                                <form name="enq" method="post" action="email/index.php" onsubmit="return validation();" style="left:25%;text-align:center;">
+                                <form name="enq" method="post" action="email/index.php" onsubmit="return validation();" class="seeking3">
                                     <div>
                                         <input type="text" name="email" id="email" placeholder="Email Address"></div>
                                     <div><input type="text" value="" name="fname" id="fname" placeholder="First Name"></div>

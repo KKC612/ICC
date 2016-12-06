@@ -31,7 +31,7 @@
                 <div id="content" role="main">
 
                     <div class="entry-content">
-                        <h1 class="entry-title" style="font-family: 'Raleway';">ICC <span class="cursive">Testimonials</span></h1>
+                        <h1 class="entry-title test1">ICC <span class="cursive">Testimonials</span></h1>
 
                         <div class="highlight-box">
                             <div class="testimonial">
