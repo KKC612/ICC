@@ -1,0 +1,36 @@
+h1.entry-title 
+{
+	font-family: 'Raleway';
+}
+
+h2.h-first
+{
+	font-weight: bold;
+}
+
+form.p-first
+{
+	left: 25%;
+	text-align: center;
+}
+
+p.p-first
+{
+	left: 25%;
+	text-align: center;
+}
+
+div.div-first
+{
+	text-align: center;
+	float: left;
+	margin-top: -16px;
+}
+div.div-second
+{
+	display: none;
+}
+
+.testimonials .widget-title {
+	display:none;
+}

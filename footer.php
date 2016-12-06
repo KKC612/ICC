@@ -1,5 +1,5 @@
 <footer id="colophon" class="clearfix">
-
+<link rel="stylesheet" id='difference' type="text/css" href="inc/css/difference.css" media="all" />
     <div class="row-fluid container">
         <div class="span3" role="complementary">
             <aside id="text-5" class="widget-1 widget-first widget-last widget-odd widget widget_text">
@@ -61,7 +61,7 @@
 
 <div id="site-generator">
     <div class="container">
-        <div style="text-align: center;float:left;margin-top:-16px;"></div>
+        <div class="div-first"></div>
         &copy; 2016 Intensive Couples Counseling. All rights reserved. Site: <a href="http://mgmason.com" target="_blank">MG Mason</a></a>
     </div>
     <!-- .container -->
@@ -70,7 +70,7 @@
 </div>
 <!-- #page -->
 
-<div style="display:none">
+<div class="div-second">
 </div>
 
 
