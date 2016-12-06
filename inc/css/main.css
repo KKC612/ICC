@@ -1,0 +1,72 @@
+h1.entry-title{
+	font-family:'Raleway';
+}
+.form1{
+	left:25%;
+	text-align: center;
+}
+p.p1{
+	text-align: center;
+	margin-top: 10px;
+}
+p.p2{
+	text-align: center;
+}
+span.sp_name1{
+	color:#6D9CC7;
+	font-family: Euphoria;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+span.sp_name2{
+	color:rgb(223, 185, 102);
+	font-family: Euphoria;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+h4.h4_1{
+	font-weight: bold;
+}
+a.noline{
+	text-decoration: none;
+	border: none;
+}
+h4.h4_2{
+	color:#96090C; 
+	font-weight:700;
+}
+h4.h4_3{
+	color:#975B19; 
+	font-weight:700;
+}
+h4.h4_4{
+	color:#011447; 
+	font-weight:700;
+}
+h4.h4_5{
+	color:#163A2F; 
+	font-weight:700;
+}
+a.healing{
+	margin-bottom:20px;
+	padding-top:10px;
+	padding-left:20px;
+	padding-bottom:10px;
+	padding-right:20px;
+	border-radius:4px;
+	text-align:center;
+	background-color:#96090C;
+	font-size:25px;
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+}
+a.brink{
+	background-color:#975B19;
+}
+a.seeking{
+	background-color:#011447;
+}
+a.wanting{
+	background-color:#163A2F;
+}

@@ -31,10 +31,10 @@
                 <div id="content" role="main">
 
                     <div class="entry-content">
-                        <h1 class="entry-title" style="font-family: 'Raleway';">On the Brink<br />
+                        <h1 class="entry-title" >On the Brink<br />
                             <span class="cursive">For Couples on Their Last Chance, or Deciding to Stay or Leave</span></h1>
 
-                        <p style="text-align:center;margin-top: 10px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/hgcdvTIszvg" frameborder="0" allowfullscreen></iframe></p>
+                        <p class="p1" ><iframe width="560" height="315" src="https://www.youtube.com/embed/hgcdvTIszvg" frameborder="0" allowfullscreen></iframe></p>
 
                         <h2><span class="cursive">Your relationship might not make it.</span> You need an expert to give your relationship <span class="cursive">the best chance.</span> The On the Brink Program was designed for couples who couldn’t be helped with traditional therapy.</h2>
                         <h2><span class="cursive">You’ve been in pain for too long.</span> The format of ICC helps you get unstuck and helps get you on the path towards <span class="cursive">living your life</span> again.</h2>
@@ -42,8 +42,8 @@
 
                         <div class="highlight-box">
                             <div class="testimonial">
-                                <p style="text-align: center;">Contact us now and let us help.<br> <span class="cursive">Your life can be better.</span><br> Let us help you get your life moving again. </p>
-                                <form name="enq" method="post" action="email/index.php" onsubmit="return validation();" style="left:25%;text-align:center;">
+                                <p class="p2">Contact us now and let us help.<br> <span class="cursive">Your life can be better.</span><br> Let us help you get your life moving again. </p>
+                                <form class="form1" name="enq" method="post" action="email/index.php" onsubmit="return validation();">
                                     <div>
                                         <input type="text" name="email" id="email" placeholder="Email Address"></div>
                                     <div><input type="text" value="" name="fname" id="fname" placeholder="First Name"></div>

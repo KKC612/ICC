@@ -31,7 +31,7 @@
                 <div id="content" role="main">
 
                     <div class="entry-content">
-                        <h1 class="entry-title" style="font-family: 'Raleway';">The ICC <span class="cursive">Investment</span></h1>
+                        <h1 class="entry-title" >The ICC <span class="cursive">Investment</span></h1>
 
                         <h2>We don't know of <span class="cursive">any other service</span> like our <span class="cursive">Intensive Couples Counseling™ Program.</span></h2>
                         <h2>There are many faith-based programs where multiple couples gather in a retreat format led by a religious leader.</h2>
@@ -45,7 +45,7 @@
                         <div class="highlight-box">
                             <div class="testimonial">
                                 <p>Contact us now and let us help. Don’t wait too long – <span class="cursive">there may be no turning back.</span></p>
-                                <form name="enq" method="post" action="email/index.php" onsubmit="return validation();" style="left:25%;text-align:center;">
+                                <form class="form1" name="enq" method="post" action="email/index.php" onsubmit="return validation();" >
                                     <div><input type="text" name="email" id="email" placeholder="Email Address"></div>
                                     <div><input type="text" value="" name="fname" id="fname" placeholder="First Name"></div>
                                     <div><input type="text" value="" name="lname" id="lname" placeholder="Last Name"></div>

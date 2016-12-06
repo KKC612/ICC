@@ -31,7 +31,7 @@
                 <div id="content" role="main">
 
                     <div class="entry-content">
-                        <h1 class="entry-title" style="font-family: 'Raleway';">About<br />
+                        <h1 class="entry-title" >About<br />
                             <span class="cursive">Intensive Couples Counseling</span></h1>
 
                         <h2>Intensive Couples Counseling (ICC) is <span class="cursive">surgery</span> for your <span class="cursive">relationship.</span></h2>
@@ -44,7 +44,7 @@
                         <div class="highlight-box">
                             <div class="testimonial">
                                 <p>Contact us now and let us help. Don’t wait too long – there may be no turning back.</p>
-                                <form name="enq" method="post" action="email/index.php" onsubmit="return validation();" style="left:25%;text-align:center;">
+                                <form class = "form1" name="enq" method="post" action="email/index.php" onsubmit="return validation();>
                                     <div><input type="text" name="email" id="email" placeholder="Email Address"></div>
                                     <div><input type="text" value="" name="fname" id="fname" placeholder="First Name"></div>
                                     <div><input type="text" value="" name="lname" id="lname" placeholder="Last Name"></div>

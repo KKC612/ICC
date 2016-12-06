@@ -30,6 +30,7 @@
 <link rel='stylesheet' id='gforms_ready_class_css-css'  href='inc/css/readyclass.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='gforms_browsers_css-css'  href='inc/css/browsers.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='jetpack_css-css'  href='inc/css/jetpack.css' type='text/css' media='all' />
+<link rel='stylesheet' href='inc/css/main.css' type='text/css' />
 <style id="custom-css-css">.testimonials .widget-title{display:none}</style>
 <script type="text/javascript" src="inc/js/modernizr-2.0.6.min.js"></script>
 <script type="text/javascript" src="email/validation.js"></script>
