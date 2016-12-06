@@ -1,0 +1,150 @@
+/* Clear fix solution for modern browsers */
+.cf:before,
+.cf:after {
+  content:"";
+  display:table;
+}
+
+.cf:after {
+  clear:both;
+}
+
+/* For IE 6/7 (trigger hasLayout) */
+.cf {
+  zoom:1;
+}
+.center { text-align:center; }
+
+
+/******************* 
+ *
+ * General Layout 
+ *
+ ********************/
+
+/* previous / next navigation */
+#prev-next-nav {
+  clear:both;
+  height:20px;
+  font-size:16px;font-size:1.6rem;
+  line-height:16px;line-height:1.6rem;
+}
+.testimonial-prev,
+.testimonial-next {
+  float:left;
+  width:45%;
+}
+.testimonial-next {
+  float:right;
+  text-align:right;
+}
+
+/* main testimonial slideshow */
+
+#testimonial-slideshow {
+  margin:0 0 49px 0;
+  padding:18px 0 0 0;
+  /*background: url(images/quote-bubble-top.png) top left no-repeat;*/
+}
+  .testimonial-top {
+    margin:0;
+    padding:0;
+  }
+  .testimonial-bottom {
+    margin:0 0 20px 0;
+    padding:0 0 10px 0;
+    border-bottom:1px solid #999;
+  }
+  .testimonial-slide {
+    /*width:580px;*/
+    margin:0;
+    padding:10px;
+  }
+  .testimonial-widget .testimonial-slide {
+    width:600px;
+    margin:0;
+    background:#ececec url(images/quote-bubble.png) bottom left no-repeat;
+  }
+  .testimonial-slide .testimonial-thumbnail {
+    float:right;
+    max-width:150px;
+    padding:0 0 20px 20px;
+  }
+  .testimonial-slide .testimonial-thumbnail span {
+    display:block;
+    font-size:90%;
+  }
+  .testimonial-slide .testimonial-thumbnail img {
+    max-width:150px;
+  }
+  .testimonial-slide .testimonial-content {
+  }
+  #content .testimonial-slide dd.testimonial-title, 
+  #content .testimonial-slide dd.testimonial-company, 
+  #content .testimonial-slide dd.testimonial-url, 
+  #content .testimonial-slide dd.testimonial-author {
+    margin:0;
+    padding:0;
+  }
+  .testimonial-slide .testimonial-author {
+    clear:both;
+  }
+  .testimonial-slide .testimonial-title {
+  }
+  .testimonial-slide .testimonial-company {
+  }
+  .testimonial-slide .testimonial-url {
+  }
+
+/* testimonial carousel */
+
+
+#testimonial-carousel-wrapper {
+  height:125px;
+  overflow:hidden;
+  padding:0;
+}
+#testimonial-carousel {
+  width:2000px;
+  list-style:none;
+  margin:0;
+  padding-left:20px;
+}
+#testimonial-carousel li {
+  float:left;
+  width:75px;
+  padding-right:25px;
+  font-size:12px;font-size:1.2rem;
+  line-height:16px;line-height:1.6rem;
+  opacity:0.7;
+  filter:alpha(opacity=70);
+  color:#000000;
+  text-align:center;
+}
+#testimonial-carousel li:hover,
+#testimonial-carousel li.activeSlide {
+  opacity:1.0;
+  filter:alpha(opacity=100);
+}
+
+
+/*
+ * emm_paginate - WordPress Pagination Function
+ * Version: 1.0
+ *
+ * Copyright (c) 2009 Eric Martin http://www.ericmmartin.com/
+ * Link: http://www.ericmmartin.com/pagination-function-for-wordpress
+ *
+ */
+.emm-paginate {
+  width:100%;
+  margin:15px 0 0 -25px;
+  text-align:center;
+}
+.emm-paginate a {background:#ddd; border:1px solid #AB0600; color:#666; margin-right:4px; padding:3px 6px; text-align:center; text-decoration:none;}
+.emm-paginate a:hover, .emm-paginate a:active {background:#ccc; color:#888;}
+.emm-paginate .emm-title {color:#555; margin-right:4px;}
+.emm-paginate .emm-gap {color:#999; margin-right:4px;}
+.emm-paginate .emm-current {color:#fff; background:#AB0600; border:1px solid #444444; margin-right:4px; padding:3px 6px;}
+.emm-paginate .emm-page {}
+.emm-paginate .emm-prev, .emm-paginate .emm-next {}
