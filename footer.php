@@ -75,7 +75,7 @@
 		<div class="container">
 		    <div style="text-align: center;float:left;margin-top:-16px;"></div>
 	        &copy; 2016 Intensive Couples Counseling. All rights reserved. Site: 
-	        <a href="http://mgmason.com" target="_blank">MG Mason</a></a>
+	        <a href="http://mgmason.com" target="_blank">MG Mason</a>
         </div><!-- .container -->
 	</div><!-- #site-generator -->
 </div><!-- #page -->
