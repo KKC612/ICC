@@ -2487,7 +2487,7 @@ p.comment-form-comment {
 #site-generator {
 	font-size: 12px; font-size: 1.2rem;
 	line-height: normal;
-	text-align: right;
+	text-align: center;
 	background: rgb(223, 185, 102);
 	color: rgb(79, 66, 52);
 	padding: 20px 0; padding: 2.0rem 0;

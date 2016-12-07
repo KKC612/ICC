@@ -6,7 +6,7 @@
 
 
 
-    <div id="page" class="hfeed">
+    <div id="page">
 
         <header id="branding" class="clearfix">
 
@@ -34,7 +34,7 @@
                         <h1 class="entry-title">Healing the Hurt<br />
                             <span class="cursive">For Couples Working Through an Affair, Betrayal, or Crisis</span></h1>
 
-                        <p class="p-first"><iframe width="560" height="315" src="https://www.youtube.com/embed/1jRtcEMQZVc" frameborder="0" allowfullscreen></iframe></p>
+                        <p class="contactform"><iframe class="video-size" src="https://www.youtube.com/embed/1jRtcEMQZVc" frameborder="0" allowfullscreen></iframe></p>
 
                         <h2><span class="cursive">You need help now.</span> With our Healing the Hurt Program we can usually get you in in 10 days or less - instead of <span class="cursive">dragging out the pain</span> over months.</h2>
                         <h2><span class="cursive">You need understanding now.</span> We get to the heart of the <span class="cursive">betrayal</span> and help you get on a path to <span class="cursive">recovery.</span></h2>

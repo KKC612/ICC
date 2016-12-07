@@ -6,7 +6,7 @@
 
 
 
-    <div id="page" class="hfeed">
+    <div id="page">
 
         <header id="branding" class="clearfix">
 
@@ -17,7 +17,7 @@
                 <h2 class="site-description">ICC is surgery for your relationship.</h2>
 
                 <div class="call">
-                    <p>Call or Text <a href="tel:+16127872832"><span class="tel">(612) 787-2832</span></a> or <a href="#" target="blank">Schedule a time to talk »</a></p>
+                    <p>Call or Text <a href="tel:+16127872832"><span>(612) 787-2832</span></a> or <a href="#" target="blank">Schedule a time to talk »</a></p>
                 </div>
 
             </hgroup>
@@ -33,15 +33,15 @@
                     <div class="entry-content">
                         <h1 class="entry-title">The ICC <span class="cursive">Difference</span></h1>
 
-                        <h2 class="h-first" >ICC clients are able to get their <span class="cursive">program scheduled within 10 days</span> or less. You bypass the waiting list for traditional therapy to <span class="cursive">get started right away.</span></h2>
-                        <h2 class="h-first">You work <span class="cursive">privately</span> with an ICC-certified therapist over three days. In 15 hours you are able to <span class="cursive">get to the heart of your issues</span> and stay there as long as you need.</h2>
-                        <h2 class="h-first">Your ICC therapist is <span class="cursive">hand selected to work with you</span> based on your issues and needs and each ICC program is tailored specifically for you.</h2>
-                        <h2 class="h-first">Your ICC therapist is licensed and specializes in relationships, and has <span class="cursive">completed extensive training to be ICC-certified.</span></h2>
+                        <h2 class="font-bold" >ICC clients are able to get their <span class="cursive">program scheduled within 10 days</span> or less. You bypass the waiting list for traditional therapy to <span class="cursive">get started right away.</span></h2>
+                        <h2 class="font-bold">You work <span class="cursive">privately</span> with an ICC-certified therapist over three days. In 15 hours you are able to <span class="cursive">get to the heart of your issues</span> and stay there as long as you need.</h2>
+                        <h2 class="font-bold">Your ICC therapist is <span class="cursive">hand selected to work with you</span> based on your issues and needs and each ICC program is tailored specifically for you.</h2>
+                        <h2 class="font-bold">Your ICC therapist is licensed and specializes in relationships, and has <span class="cursive">completed extensive training to be ICC-certified.</span></h2>
 
                         <div class="highlight-box">
                             <div class="testimonial">
                                 <p>Contact us now and let us help. Don’t wait too long – there may be no turning back.</p>
-                                <form name="enq" method="post" action="email/index.php" onsubmit="return validation();" class="p-first">
+                                <form name="enq" method="post" action="email/index.php" onsubmit="return validation();" class="contactform">
                                     <div><input type="text" name="email" id="email" placeholder="Email Address"></div>
                                     <div><input type="text" value="" name="fname" id="fname" placeholder="First Name"></div>
                                     <div><input type="text" value="" name="lname" id="lname" placeholder="Last Name"></div>
@@ -71,7 +71,7 @@
 
             <div id="main" class="container clearfix">
                 <div class="callmid">
-                    <p>Call or Text <a href="tel:+16127872832"><span class="tel">(612) 787-2832</span></a> or <a href="#" target="blank">Schedule a time to talk »</a></p>
+                    <p>Call or Text <a href="tel:+16127872832"><span>(612) 787-2832</span></a> or <a href="#" target="blank">Schedule a time to talk »</a></p>
                 </div>
             </div>
         </div>

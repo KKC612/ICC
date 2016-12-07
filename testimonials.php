@@ -1,15 +1,9 @@
 <?php include("header.php"); ?>
 <title>Intensive Couples Counseling is surgery for your relationship.</title>
 </head>
-
 <body id="testimonials" class="sales singular">
-
-
-
-    <div id="page" class="hfeed">
-
+    <div id="page">
         <header id="branding" class="clearfix">
-
             <hgroup class="container">
                 <a href="/" title="Intensive Couples Counseling" rel="home">
                     <h1 class="site-title"><span>Intensive Couples Counseling</span></h1>
@@ -17,21 +11,17 @@
                 <h2 class="site-description">ICC is surgery for your relationship.</h2>
 
                 <div class="call">
-                    <p>Call or Text <a href="tel:+16127872832"><span class="tel">(612) 787-2832</span></a> or <a href="#" target="blank">Schedule a time to talk »</a></p>
+                    <p>Call or Text <a href="tel:+16127872832"><span>(612) 787-2832</span></a> or <a href="#" target="blank">Schedule a time to talk »</a></p>
                 </div>
-
             </hgroup>
             <?php include("menu.php"); ?>
         </header>
         <!-- #branding -->
-
         <div id="main" class="container clearfix">
-
             <div id="primary">
                 <div id="content" role="main">
-
                     <div class="entry-content">
-                        <h1 class="entry-title test1">ICC <span class="cursive">Testimonials</span></h1>
+                        <h1 class="entry-title">ICC <span class="cursive">Testimonials</span></h1>
 
                         <div class="highlight-box">
                             <div class="testimonial">
@@ -71,7 +61,7 @@
                         </div>
                         <div id="main" class="container clearfix">
                             <div class="callmid">
-                                <p>Call or Text <a href="tel:+16127872832"><span class="tel">(612) 787-2832</span></a> or <a href="#" target="blank">Schedule a time to talk »</a></p>
+                                <p>Call or Text <a href="tel:+16127872832"><span>(612) 787-2832</span></a> or <a href="#" target="blank">Schedule a time to talk »</a></p>
                             </div>
                             <div class="highlight-box">
                                 <div class="testimonial">
@@ -110,7 +100,7 @@
 
                 <div id="main" class="container clearfix">
                     <div class="callmid">
-                        <p>Call or Text <a href="tel:+16127872832"><span class="tel">(612) 787-2832</span></a> or <a href="#" target="blank">Schedule a time to talk »</a></p>
+                        <p>Call or Text <a href="tel:+16127872832"><span>(612) 787-2832</span></a> or <a href="#" target="blank">Schedule a time to talk »</a></p>
                     </div>
                 </div>
             </div>

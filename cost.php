@@ -1,3 +1,4 @@
+
 <?php include("header.php"); ?>
 <title>Intensive Couples Counseling is surgery for your relationship.</title>
 </head>
@@ -6,7 +7,7 @@
 
 
 
-    <div id="page" class="hfeed">
+    <div id="page">
 
         <header id="branding" class="clearfix">
 
@@ -45,7 +46,7 @@
                         <div class="highlight-box">
                             <div class="testimonial">
                                 <p>Contact us now and let us help. Don’t wait too long – <span class="cursive">there may be no turning back.</span></p>
-                                <form class="form1" name="enq" method="post" action="email/index.php" onsubmit="return validation();" >
+                                <form class="contactform" name="enq" method="post" action="email/index.php" onsubmit="return validation();" >
                                     <div><input type="text" name="email" id="email" placeholder="Email Address"></div>
                                     <div><input type="text" value="" name="fname" id="fname" placeholder="First Name"></div>
                                     <div><input type="text" value="" name="lname" id="lname" placeholder="Last Name"></div>
